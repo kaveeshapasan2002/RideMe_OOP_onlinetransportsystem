@@ -1,0 +1,18 @@
+# Java build files
+*.class
+*.jar
+*.war
+*.log
+
+# Build directories
+build/
+target/
+
+# IDE-specific files
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
